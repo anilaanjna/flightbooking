@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.FlightBookingSystem.BookOneWayTrip">
+      <class name="com.FlightBookingSystem.ObjectRepository.FlightBookingObject">
         <methods>
-          <include name="Tc_001"/>
-          <include name="closeBrowser"/>
-          <include name="launchBrowserTest"/>
+          <include name="FlightBookingObject"/>
         </methods>
-      </class> <!-- com.FlightBookingSystem.BookOneWayTrip -->
+      </class> <!-- com.FlightBookingSystem.ObjectRepository.FlightBookingObject -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

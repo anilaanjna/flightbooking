@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34274" started-at="2021-06-06T20:13:40 IST" finished-at="2021-06-06T20:14:14 IST">
+  <suite name="Default suite" duration-ms="32994" started-at="2021-06-06T21:25:25 IST" finished-at="2021-06-06T21:25:58 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34274" started-at="2021-06-06T20:13:40 IST" finished-at="2021-06-06T20:14:14 IST">
+    <test name="Default test" duration-ms="32994" started-at="2021-06-06T21:25:25 IST" finished-at="2021-06-06T21:25:58 IST">
       <class name="com.FlightBookingSystem.BookOneWayTrip">
-        <test-method status="PASS" signature="launchBrowserTest()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="launchBrowserTest" is-config="true" duration-ms="18851" started-at="2021-06-06T20:13:40 IST" finished-at="2021-06-06T20:13:59 IST">
+        <test-method status="PASS" signature="launchBrowserTest()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="launchBrowserTest" is-config="true" duration-ms="17784" started-at="2021-06-06T21:25:25 IST" finished-at="2021-06-06T21:25:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowserTest -->
-        <test-method status="PASS" signature="Tc_001()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="Tc_001" duration-ms="15140" started-at="2021-06-06T20:13:59 IST" finished-at="2021-06-06T20:14:14 IST">
+        <test-method status="PASS" signature="Tc_001()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="Tc_001" duration-ms="14960" started-at="2021-06-06T21:25:43 IST" finished-at="2021-06-06T21:25:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tc_001 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="closeBrowser" is-config="true" duration-ms="229" started-at="2021-06-06T20:14:14 IST" finished-at="2021-06-06T20:14:14 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.FlightBookingSystem.BookOneWayTrip@1b68ddbd]" name="closeBrowser" is-config="true" duration-ms="190" started-at="2021-06-06T21:25:58 IST" finished-at="2021-06-06T21:25:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
